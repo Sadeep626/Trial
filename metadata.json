@@ -1,0 +1,6 @@
+{
+  "name": "Nepal Driving Trial Simulator",
+  "description": "Authentic 3D Nepal DOTM driving trial simulator with exact manual vehicle controls including clutch bite point, H-pattern gear shifter, handbrake, and Ukalo ramp test.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
